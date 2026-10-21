@@ -1,5 +1,5 @@
 My Website
-Project Description
+Output Description
 
 My Website is a simple website created using HTML. It consists of three web pages: Home, Lists, and Forms. The project demonstrates basic HTML elements, page navigation, different types of lists, and form controls.
 
